@@ -3,8 +3,6 @@
 
 <div align="center">
 <img src="[https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif](https://i.gifer.com/2zGr.gif)">
-<img src="[https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif](https://i.gifer.com/2zGr.gif)">
-<img src="[https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif](https://i.gifer.com/2zGr.gif)">
 </div>
 
 # 📊 GitHub Stats:

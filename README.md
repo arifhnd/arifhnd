@@ -1,3 +1,6 @@
+# 💫 About Me:
+🔭 I’m currently working on Digital Data Studio<br>👯 I’m looking to collaborate on any project<br>🌱 I’m currently learning Go and Backend Architecture & Scalability<br>💬 Let's connect with me
+
 # 💻 Tech Stack:
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
 
@@ -15,5 +18,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=arifhnd&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
